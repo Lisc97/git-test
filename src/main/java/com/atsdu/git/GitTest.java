@@ -1,0 +1,12 @@
+package com.atsdu.git;
+
+/**
+ * @author
+ * @create 2022-08-15-15:14
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello Git");
+        System.out.println("hello Git2");
+    }
+}
